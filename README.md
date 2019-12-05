@@ -4,7 +4,7 @@ Strokes are one of the most expensive health conditions from both a financial an
 
 Being able to predict stroke risk for heart surgery patients and take appropriate steps to mitigate and manage that risk is critical to improve patient outcomes and reduce healthcare costs. The Society of Thoracic Surgeons (STS) currently uses statistical models developed primarily in the 1990s to assess stroke risk for heart surgery patients. Our team used datasets provided by the STS for heart surgeries in Michigan from July 1, 2011 to December 30, 2016, to see if machine learning techniques could improve upon the current model.
 
-Our methodology and results can be found in the paper available for download here. 
+Our methodology and results can be found in the paper available for download below. 
 
 <a href="Results.xlsx" download = "download">Download Paper</a>
 
