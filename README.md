@@ -8,8 +8,7 @@ Our methodology and results can be found in the paper available for download on 
 
 ### Team Members
 
-![Akhil]<img src="https://raw.githubusercontent.com/asp82/w210CapstoneProject/master/website/Akhil.png" width="200" height="200">
-
+<img src="https://raw.githubusercontent.com/asp82/w210CapstoneProject/master/website/Akhil.png" width="200" height="200" align="left">
 
 Akhil Patel is a software engineer at McMaster-Carr Supply Co. He has a Bachelors in Chemical Engineering from Cornell University.
 
