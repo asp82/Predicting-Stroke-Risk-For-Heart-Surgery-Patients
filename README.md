@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Akhil](./website/Akhil.png)
+[Link](url) and ![Akhil](https://github.com/asp82/w210CapstoneProject/blob/master/website/Akhil.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
