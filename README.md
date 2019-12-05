@@ -6,7 +6,16 @@ Being able to predict stroke risk for heart surgery patients and take appropriat
 
 Our methodology and results can be found in the paper available for download on this site.
 
-### Markdown
+### Team Members
+
+![Akhil](https://raw.githubusercontent.com/asp82/w210CapstoneProject/master/website/Akhil.png)
+
+![Akhil](https://github.com/asp82/w210CapstoneProject/blob/master/website/Akhil.png)
+
+![Akhil](https://github.com/asp82/w210CapstoneProject/raw/master/website/Akhil.png)
+
+Akhil Patel is a software engineer at McMaster-Carr Supply Co. H
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
