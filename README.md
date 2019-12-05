@@ -8,13 +8,10 @@ Our methodology and results can be found in the paper available for download on 
 
 ### Team Members
 
-![Akhil](https://raw.githubusercontent.com/asp82/w210CapstoneProject/master/website/Akhil.png)
+![Akhil](https://raw.githubusercontent.com/asp82/w210CapstoneProject/master/website/Akhil.png?s=200)
 
-![Akhil](https://github.com/asp82/w210CapstoneProject/blob/master/website/Akhil.png)
 
-![Akhil](https://github.com/asp82/w210CapstoneProject/raw/master/website/Akhil.png)
-
-Akhil Patel is a software engineer at McMaster-Carr Supply Co. H
+Akhil Patel is a software engineer at McMaster-Carr Supply Co. He has a Bachelors in Chemical Engineering from Cornell University.
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
