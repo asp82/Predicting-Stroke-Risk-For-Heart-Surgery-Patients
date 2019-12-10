@@ -14,6 +14,9 @@ Our methodology and results can be found in the paper available for download bel
 
 Akhil Patel is a software engineer at McMaster-Carr Supply Co. He has a Bachelors in Chemical Engineering from Cornell University.
 
+
+
+
 ---
 
 
@@ -23,6 +26,10 @@ Akhil Patel is a software engineer at McMaster-Carr Supply Co. He has a Bachelor
 <img src="https://raw.githubusercontent.com/asp82/w210CapstoneProject/master/website/frank.jpg" width="100" height="100" align="left" style="margin: 0px 20px">
 
 Dr. Frank Shannon is a cardiac surgeon at Beaumont Hospital in Royak Oak, MI. He has been practicing medicine for 41 years and earned his MD at Mount Sinai Hospital ICAHN School of Medicine.
+
+
+
+
 
 
 ---
