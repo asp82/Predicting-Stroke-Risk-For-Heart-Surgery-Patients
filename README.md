@@ -6,7 +6,12 @@ Being able to predict stroke risk for heart surgery patients and take appropriat
 
 Our methodology and results can be found in the paper available for download below. 
 
-<a href="Results.xlsx" download = "download">Download Paper</a>
+Abstract:
+
+Strokes are one of the most costly health conditions from both a financial and human standpoint. The stroke incidence rate per capita is twice as high for individuals aged 50 and above that have had heart surgery than for those who have not. The Society of Thoracic Surgery publishes Adult Cardiac Surgery Risk Models that, among other things, predict stroke risk for heart surgery patients. These models are based on logistic regression techniques on preoperative features selected by a panel of physicians. We modeled stroke risk using a variety of machine learning techniques on an extensive set of preoperative features as well as a set that included both preoperative and postoperative features. No models outperformed STS when utilizing solely preoperative data. However, we found several models that outperformed the STS model, as measured by the area under the receiver operating characteristic curve (c-statistic), when postoperative data was incorporated. This suggests a rationale for the increased use of postoperative data to improve perioperative care to reduce strokes after heart surgery.  
+
+
+<a href="Predicting stroke risk for heart surgery patients_ comparison of results with logistic regression vs machine learning techniques.pdf" download = "download">Download Paper</a>
 
 ### Team Members
 <br>
